@@ -1,0 +1,10 @@
+.header {
+    background-color:navajowhite;
+    color: #5d0b0b;
+    padding: 10px 59px;
+  }
+  
+  .header-title {
+    margin: 0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }

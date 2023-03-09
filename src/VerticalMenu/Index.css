@@ -1,0 +1,27 @@
+.vertical-menu {
+  list-style-type: none;
+  margin: 0;
+  width: 180px;
+  background-color:#f8ece2;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  position: fixed;
+  top: 57px;
+  bottom: 0;
+  left: 0;
+  width: 190px;
+  padding: 30px;
+  overflow-y: auto;
+  opacity: 80%;
+}
+
+.vertical-menu li a {
+  display: block;
+  color: #000;
+  padding: 25px 30px;
+  text-decoration: none;
+}
+
+.vertical-menu li a:hover {
+  background-color: #edd9bc;
+  color: white;
+}
