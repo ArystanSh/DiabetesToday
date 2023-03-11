@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.11743922.css",
+    "main.css": "/static/css/main.5adb8366.css",
     "main.js": "/static/js/main.acc1999a.js",
     "static/media/diabetes.png": "/static/media/diabetes.b77dd365b84215627724.png",
     "index.html": "/index.html",
-    "main.11743922.css.map": "/static/css/main.11743922.css.map",
+    "main.5adb8366.css.map": "/static/css/main.5adb8366.css.map",
     "main.acc1999a.js.map": "/static/js/main.acc1999a.js.map"
   },
   "entrypoints": [
-    "static/css/main.11743922.css",
+    "static/css/main.5adb8366.css",
     "static/js/main.acc1999a.js"
   ]
 }
