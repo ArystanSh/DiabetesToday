@@ -5,7 +5,6 @@ const VerticalMenu = () => {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const [isDropdownOpen2, setIsDropdownOpen2] = useState(false);
   const [isDropdownOpen3, setIsDropdownOpen3] = useState(false);
-  const [isDropdownOpen4, setIsDropdownOpen4] = useState(false);
 
 
   return (
@@ -57,7 +56,7 @@ const VerticalMenu = () => {
               <a href="https://sxodim.com/almaty/article/almaty-mountain-trips">Горные маршруты</a>
             </li>
             <li className="dropdown-item">
-              <a href="hhttps://pandaland.kz/articles/semya/semejnyj-dosug/progulki-na-svezhem-vozduhe-luchshie-parki-almaty">Парки</a>
+              <a href="https://pandaland.kz/articles/semya/semejnyj-dosug/progulki-na-svezhem-vozduhe-luchshie-parki-almaty">Парки</a>
             </li>
             <li className="dropdown-item">
               <a href="https://sxodim.com/almaty/article/almaty-11-tours">Места за городом</a>
